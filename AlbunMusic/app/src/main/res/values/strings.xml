@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlbunMusic</string>
+    <string name="titulo_portada">Rock Music</string>
+    <string name="mensaje_portada">This season top 20 albums</string>
+    <string name="name_song">Dont Cry</string>
+    <string name="name_song2">You could be mine</string>
+    <string name="name_song3">Patience</string>
+    <string name="name_song4">Estranged</string>
+    <string name="song1">13 songs</string>
+    <string name="song2">8 songs</string>
+    <string name="grupo">Guns and Roses</string>
+</resources>
