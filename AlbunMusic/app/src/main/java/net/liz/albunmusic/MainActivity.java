@@ -1,3 +1,4 @@
+
 package net.liz.albunmusic;
 
 import android.content.Intent;
@@ -28,29 +29,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        clud.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,Main2Activity.class);
-                startActivity(intent);
-            }
-        });
-
-
-        patience.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,Main2Activity.class);
-                startActivity(intent);
-            }
-        });
-
-        estranged.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,Main2Activity.class);
-                startActivity(intent);
-            }
-        });
     }
 }
